@@ -1,0 +1,17 @@
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\bin\Debug\net10.0-windows\CalculaCarlos.exe
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\bin\Debug\net10.0-windows\CalculaCarlos.deps.json
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\bin\Debug\net10.0-windows\CalculaCarlos.runtimeconfig.json
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\bin\Debug\net10.0-windows\CalculaCarlos.dll
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\bin\Debug\net10.0-windows\CalculaCarlos.pdb
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.Form1.resources
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.dll
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\refint\CalculaCarlos.dll
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.pdb
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaCarlos.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\ref\CalculaCarlos.dll
+C:\Users\Aluno\Downloads\CalculaCarlos\CalculaCarlos\obj\Debug\net10.0-windows\CalculaC.FF221944.Up2Date
